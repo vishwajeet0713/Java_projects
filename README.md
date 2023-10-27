@@ -1,4 +1,4 @@
 # Java_projects
-project name + Student Management System
+project name + Student adding and removing deleting exsiting system
 test only
 
